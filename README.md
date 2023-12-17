@@ -10,6 +10,7 @@ Delve analyzes thousands of program snapshots in seconds, visualizes how code ev
 
 ![Delve Screen Shot #1][delve-screenshot-1]
 ![Delve Screen Shot #2][delve-screenshot-2]
+<br><br>
 
 <p align="center">
     <a href=https://www.youtube.com/watch?v=qeV5czj_GZs>
@@ -18,6 +19,7 @@ Delve analyzes thousands of program snapshots in seconds, visualizes how code ev
     <br>
     <h3 align="center">Demo</h3>
 </p>
+<br>
 <p align="center">
     <a href=https://github.com/charis/resources/blob/main/files/delve/Delve%20User%20Guide.pdf>
         <img align="center" alt="pdf icon" width="120px" src="https://github.com/charis/resources/blob/main/images/profile/pdf.png"/>
@@ -25,8 +27,7 @@ Delve analyzes thousands of program snapshots in seconds, visualizes how code ev
     <br>
     <h3 align="center">User Guide</h3> 
 </p>
-<br><br>
-
+<br>
 
 For more information, please visit http://cs-education.com/Delve.htm
 
