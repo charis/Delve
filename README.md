@@ -23,7 +23,7 @@ Delve analyzes thousands of program snapshots in seconds, visualizes how code ev
         <img align="center" alt="pdf icon" width="120px" src="https://github.com/charis/resources/blob/main/images/profile/pdf.png"/>
     </a>
     <br>
-    <h3 align="center">User Manual</h3> 
+    <h3 align="center">User Guide</h3> 
 </p>
 <br><br>
 
