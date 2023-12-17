@@ -11,9 +11,20 @@ Delve analyzes thousands of program snapshots in seconds, visualizes how code ev
 ![Delve Screen Shot #1][delve-screenshot-1]
 ![Delve Screen Shot #2][delve-screenshot-2]
 
-Demo:&nbsp; [<img align="center" alt="video icon" width="60px" src="https://github.com/charis/resources/blob/main/images/profile/video.png"/>](https://www.youtube.com/watch?v=qeV5czj_GZs)
-&nbsp; &nbsp; &nbsp;
-User Manual:&nbsp; [<img align="center" alt="pdf icon" width="45px" src="https://github.com/charis/resources/blob/main/images/profile/pdf.png"/>](https://github.com/charis/resources/blob/main/files/delve/Delve%20User%20Guide.pdf)
+<p align="center">
+    <a href=https://www.youtube.com/watch?v=qeV5czj_GZs>
+        <img align="center" alt="video icon" width="256px" src="https://github.com/charis/resources/blob/main/images/delve/youtube_thumbnail.png"/>
+    </a>
+    <br>
+    <h3 align="center">Demo</h3>
+</p>
+<p align="center">
+    <a href=https://github.com/charis/resources/blob/main/files/delve/Delve%20User%20Guide.pdf>
+        <img align="center" alt="pdf icon" width="120px" src="https://github.com/charis/resources/blob/main/images/profile/pdf.png"/>
+    </a>
+    <br>
+    <h3 align="center">User Manual</h3> 
+</p>
 <br><br>
 
 
@@ -53,3 +64,4 @@ Author: Charis Charitsis
 <!-- MARKDOWN LINKS & IMAGES -->
 [delve-screenshot-1]: https://github.com/charis/resources/blob/main/images/delve/screenshot1.png
 [delve-screenshot-2]: https://github.com/charis/resources/blob/main/images/delve/screenshot2.png
+
