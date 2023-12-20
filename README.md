@@ -7,6 +7,7 @@
 Delve is a program designed for CS educators in courses with programming assignments.
 The current version supports the Java programming language.
 Delve analyzes thousands of program snapshots in seconds, visualizes how code evolves over time, highlights complex code and uses code instrumentation to reduce the test code by 80% compared to unit-tests.
+<br><br>
 
 ![Delve Screen Shot #1][delve-screenshot-1]
 ![Delve Screen Shot #2][delve-screenshot-2]
